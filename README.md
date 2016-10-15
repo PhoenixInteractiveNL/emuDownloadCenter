@@ -11,4 +11,4 @@ EMULATORLIST.INI
 
 To prevent folder names with spaces and give nice emulator names in EDC listings, this ini wil link those names 
 
-Format: 'FOLDER=EMULATORNAME'
+Format: `FOLDER=EMULATORNAME`
