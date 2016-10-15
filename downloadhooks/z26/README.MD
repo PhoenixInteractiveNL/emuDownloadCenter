@@ -12,13 +12,23 @@ _This version of z26 is designed to run natively on 32-bit x86 Windows platforms
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/z26/z26_screen.jpg)
 ***
 ### Downloads
-[** z26 v1.58 / 2003-06-16 / 55KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/1.58.7z)
-[** z26 v2.05 / 2003-02-15 / 124KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.05.7z)
-[** z26 v2.06 / 2003-03-14 / 143KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.06.7z)
-[** z26 v2.07 / 2003-03-30 / 128KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.07.7z)
-[** z26 v2.08 / 2003-05-10 / 128KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.08.7z)
-[** z26 v2.09 / 2003-06-16 / 128KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.09.7z)
-[** z26 v2.10 / 2003-06-22 / 128KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.10.7z)
-[** z26 v2.11 / 2003-12-20 / 130KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.11.7z)
-[** z26 v2.12 / 2004-03-20 / 134KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.12.7z)
-[** z26 v2.13 / 2004-05-23 / 150KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.13.7z)
+[**z26 v1.58 / 2003-06-16 / 55KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/1.58.7z)
+
+[**z26 v2.05 / 2003-02-15 / 124KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.05.7z)
+
+[**z26 v2.06 / 2003-03-14 / 143KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.06.7z)
+
+[**z26 v2.07 / 2003-03-30 / 128KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.07.7z)
+
+[**z26 v2.08 / 2003-05-10 / 128KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.08.7z)
+
+[**z26 v2.09 / 2003-06-16 / 128KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.09.7z)
+
+[**z26 v2.10 / 2003-06-22 / 128KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.10.7z)
+
+[**z26 v2.11 / 2003-12-20 / 130KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.11.7z)
+
+[**z26 v2.12 / 2004-03-20 / 134KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.12.7z)
+
+[**z26 v2.13 / 2004-05-23 / 150KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.13.7z)
+
