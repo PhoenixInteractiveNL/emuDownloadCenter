@@ -16,7 +16,9 @@ Want to help us expanding EDC emulators?, please install DesktopGIT and clone th
 ***
 ### Emulatorlist.ini
 
-To prevent folder names with spaces and give nice emulator names in EDC listings, this ini wil link those names 
+To prevent folder names with spaces and give nice emulator names in EDC listings, this ini wil link those names.
+
+**INI SECTION = ECCID**
 
 Format: `FOLDER=EMULATORNAME`
 ***
@@ -83,6 +85,7 @@ Example Contents (Emulator Potator for Watara Supervision):
     EMU_ExecutableFolder        =
     EMU_OS                      = Windows
     EMU_OSVersion               = XP,Vista,7,8,10
+    EMU_OSArchitecture          = x86,x64
     CFG_ECCParameter            = %ROM%
     CFG_escape                  = 1
     CFG_win8char                =
@@ -107,7 +110,8 @@ Example Contents (Emulator Potator for Watara Supervision):
     EMU_ExecutableFile          = Executable file to start the emulator (EXE/COM), please no CMD/BAT files.
     EMU_ExecutableFolder        = Path inside archive where executable file is located.
     EMU_OS                      = Operating system.
-    EMU_OSVersion               = Version of the operating system, comma seperated (example XP,Vista,7,8,10)
+    EMU_OSVersion               = Version of the operating system, comma seperated. (example: XP,Vista,7,8,10)
+    EMU_OSArchitecture          = Operating system architecture, comma seperated. (example: x86,x64)
     CFG_ECCParameter            = ECC parameter line.
     CFG_escape                  = Does the emulator needs the path in escapes? "" (default 1)
     CFG_win8char                = Does the emulator need old 8.3 dosnames to work? (1 for yes, otherwise leave blank)
