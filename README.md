@@ -26,7 +26,7 @@ Every emulator (not versions) is put in in the `downloadhooks\[emulatorfoldernam
     [emulatorfoldername]_downloads.ini
     [emulatorfoldername]_info.ini
     [emulatorfoldername]_screen
-
+***
 ### Emulator INFO INI
 
 Example Contents (Emulator Potator for Watara Supervision):
@@ -43,3 +43,16 @@ Example Contents (Emulator Potator for Watara Supervision):
     Notes		= This appears to be the first Watara Supervision emulator for Windows. It uses the SDL library and has good compatibility.
 
 Please note the Email is masked to prevent spamming (*=. | #=@)
+
+**Breakdown:**
+
+    [INFO]
+    InfoVersion	= **Version of the INI file layout.**
+
+    [EMULATOR]
+    Author		= **Author of the emulator**
+    Contact		= david*raingeard#laposte*net
+    License		= Freeware
+    BiosNeeded	= 0
+    Website		= 
+    Notes		= This appears to be the first Watara Supervision emulator for Windows. It uses the SDL library and has good compatibility.
