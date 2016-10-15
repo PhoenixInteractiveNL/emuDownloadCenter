@@ -12,7 +12,7 @@ _This appears to be the first Watara Supervision emulator for Windows. It uses t
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/potator/potator_screen.jpg)
 ***
 ### Downloads
-[**potator v0.6 / 2004-05-08 / 176KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/potator/0.6.7z)
+[**Potator v0.6 / 2004-05-08 / 176KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/potator/0.6.7z)
 
-[**potator v0.7 / 2004-10-19 / 179KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/potator/0.7.7z)
+[**Potator v0.7 / 2004-10-19 / 179KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/potator/0.7.7z)
 
