@@ -7,9 +7,8 @@ This emulator runs on **Windows XP,Vista,7,8,10 (x86,x64)**
 
 _This appears to be the first Watara Supervision emulator for Windows. It uses the SDL library and has good compatibility._
 
+[**Website**]()
 ***
-
-![**Website**]()
 ### Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/potator/potator_screen.jpg)
 ***

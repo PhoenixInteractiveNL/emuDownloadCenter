@@ -7,9 +7,8 @@ This emulator runs on **Windows XP (x86)**
 
 _This version of z26 is designed to run natively on 32-bit x86 Windows platforms. It provides excellent sound quality, and correct frame synchronization on Windows-XP platforms._
 
+[**Website**]()
 ***
-
-![**Website**]()
 ### Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/z26/z26_screen.jpg)
 ***

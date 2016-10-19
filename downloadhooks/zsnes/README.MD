@@ -7,9 +7,8 @@ This emulator runs on **Windows XP, Vista, 7 (x86)**
 
 _ZSNES is a Super Nintendo emulator programmed by zsKnight and _Demo_. On April 2, 2001 the ZSNES project was GPL'ed and its source released to the public._
 
+[**Website**](http://www.zsnes.com/)
 ***
-
-![**Website**](http://www.zsnes.com/)
 ### Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/zsnes/zsnes_screen.jpg)
 ***
