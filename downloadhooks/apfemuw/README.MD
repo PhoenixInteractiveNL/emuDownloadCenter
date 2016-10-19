@@ -13,9 +13,8 @@ _APF_EMUW emulates in a PC a computer APF Imagination Machine._
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/apfemuw/apfemuw_screen.jpg)
 ***
 ### Downloads
-[**APF EMUW v1.0 / 1999-07-05 / 199KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/apfemuw/1.0.7z)
-
-[**APF EMUW v2.0.1 / 2002-04-29 / 230KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/apfemuw/2.0.1.7z)
-
-[**APF EMUW v2.0.1v2 / 2008-03-12 / 324KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/apfemuw/2.0.1v2.7z)
-
+| Version | Release date  | DL size:   |
+|:--------|:-------------:|-----------:|
+| [**v1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/apfemuw/1.0.7z) | 1999-07-05 | 199 KB |
+| [**v2.0.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/apfemuw/2.0.1.7z) | 2002-04-29 | 230 KB |
+| [**v2.0.1v2**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/apfemuw/2.0.1v2.7z) | 2008-03-12 | 324 KB |

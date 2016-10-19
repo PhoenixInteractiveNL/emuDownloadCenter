@@ -13,37 +13,22 @@ _ZSNES is a Super Nintendo emulator programmed by zsKnight and _Demo_. On April 
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/zsnes/zsnes_screen.jpg)
 ***
 ### Downloads
-[**ZSNES v1.20 / 2001-04-30 / 417KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.20.7z)
-
-[**ZSNES v1.25 / 2001-05-15 / 403KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.25.7z)
-
-[**ZSNES v1.26 / 2001-05-17 / 402KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.26.7z)
-
-[**ZSNES v1.28 / 2001-06-01 / 408KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.28.7z)
-
-[**ZSNES v1.29 / 2001-06-01 / 409KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.29.7z)
-
-[**ZSNES v1.30 / 2001-06-13 / 412KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.30.7z)
-
-[**ZSNES v1.30b / 2001-06-16 / 413KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.30b.7z)
-
-[**ZSNES v1.31 / 2001-06-27 / 412KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.31.7z)
-
-[**ZSNES v1.31b / 2001-07-03 / 411KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.31b.7z)
-
-[**ZSNES v1.337 / 2001-09-30 / 448KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.337.7z)
-
-[**ZSNES v1.35 / 2002-06-23 / 450KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.35.7z)
-
-[**ZSNES v1.36 / 2002-07-15 / 451KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.36.7z)
-
-[**ZSNES v1.40 / 2004-12-21 / 583KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.40.7z)
-
-[**ZSNES v1.41 / 2005-01-15 / 612KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.41.7z)
-
-[**ZSNES v1.42 / 2005-01-19 / 613KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.42.7z)
-
-[**ZSNES v1.50 / 2006-12-22 / 706KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.50.7z)
-
-[**ZSNES v1.51 / 2007-01-24 / 720KB**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.51.7z)
-
+| Version | Release date  | DL size:   |
+|:--------|:-------------:|-----------:|
+| [**v1.20**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.20.7z) | 2001-04-30 | 417 KB |
+| [**v1.25**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.25.7z) | 2001-05-15 | 403 KB |
+| [**v1.26**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.26.7z) | 2001-05-17 | 402 KB |
+| [**v1.28**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.28.7z) | 2001-06-01 | 408 KB |
+| [**v1.29**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.29.7z) | 2001-06-01 | 409 KB |
+| [**v1.30**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.30.7z) | 2001-06-13 | 412 KB |
+| [**v1.30b**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.30b.7z) | 2001-06-16 | 413 KB |
+| [**v1.31**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.31.7z) | 2001-06-27 | 412 KB |
+| [**v1.31b**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.31b.7z) | 2001-07-03 | 411 KB |
+| [**v1.337**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.337.7z) | 2001-09-30 | 448 KB |
+| [**v1.35**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.35.7z) | 2002-06-23 | 450 KB |
+| [**v1.36**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.36.7z) | 2002-07-15 | 451 KB |
+| [**v1.40**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.40.7z) | 2004-12-21 | 583 KB |
+| [**v1.41**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.41.7z) | 2005-01-15 | 612 KB |
+| [**v1.42**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.42.7z) | 2005-01-19 | 613 KB |
+| [**v1.50**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.50.7z) | 2006-12-22 | 706 KB |
+| [**v1.51**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.51.7z) | 2007-01-24 | 720 KB |
