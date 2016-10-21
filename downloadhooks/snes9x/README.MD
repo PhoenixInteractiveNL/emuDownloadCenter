@@ -23,5 +23,5 @@ _Snes9x is a portable, freeware Super Nintendo Entertainment System (SNES) emula
 | [**v1.51**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.51.7z) | 2007-04-28 | 785 KB |
 | [**v1.52-win95**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.52-win95.7z) | 2010-01-16 | 991 KB |
 | [**v1.53-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.53-win32.7z) | 2011-04-25 | 1139 KB |
-| [**v1.53-x64**](1.53-x64.7z) | ????-??-?? | 1474 KB |
+| [**v1.53-x64**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.53-x64.7z) | 2011-04-25 | 1474 KB |
 | [**v1.54-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.54-win32.7z) | 2016-10-10 | 877 KB |
