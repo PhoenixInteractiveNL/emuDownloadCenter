@@ -13,9 +13,9 @@ _It runs in Windows 9x/2000/XP and currently emulates many commercial games, som
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/projecttempest/projecttempest_screen.jpg)
 ***
 ### Downloads
-| Version | Release date  | DL size    |
-|:--------|:-------------:|-----------:|
-| [**v0.9**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/projecttempest/0.9.7z) | 2004-01-16 | 264 KB |
-| [**v0.91**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/projecttempest/0.91.7z) | 2004-01-17 | 265 KB |
-| [**v0.92**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/projecttempest/0.92.7z) | 2004-01-17 | 265 KB |
-| [**v0.95**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/projecttempest/0.95.7z) | 2004-02-12 | 265 KB |
+| Download | Release date  | Size       |
+|:---------|:-------------:|-----------:|
+| :floppy_disk: [**v0.9**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/projecttempest/0.9.7z) | 2004-01-16 | 264 KB |
+| :floppy_disk: [**v0.91**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/projecttempest/0.91.7z) | 2004-01-17 | 265 KB |
+| :floppy_disk: [**v0.92**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/projecttempest/0.92.7z) | 2004-01-17 | 265 KB |
+| :floppy_disk: [**v0.95**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/projecttempest/0.95.7z) | 2004-02-12 | 265 KB |

@@ -13,8 +13,8 @@ _The FreeDO (closed-source) project exists to bring about an emulator or simulat
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/freedo/freedo_screen.jpg)
 ***
 ### Downloads
-| Version | Release date  | DL size    |
-|:--------|:-------------:|-----------:|
-| [**v1.8**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/freedo/1.8.7z) | 2006-08-29 | 750 KB |
-| [**v1.9**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/freedo/1.9.7z) | 2007-01-05 | 439 KB |
-| [**v2.1.1-alpha**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/freedo/2.1.1-alpha.7z) | 2010-12-02 | 1601 KB |
+| Download | Release date  | Size       |
+|:---------|:-------------:|-----------:|
+| :floppy_disk: [**v1.8**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/freedo/1.8.7z) | 2006-08-29 | 750 KB |
+| :floppy_disk: [**v1.9**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/freedo/1.9.7z) | 2007-01-05 | 439 KB |
+| :floppy_disk: [**v2.1.1-alpha**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/freedo/2.1.1-alpha.7z) | 2010-12-02 | 1601 KB |

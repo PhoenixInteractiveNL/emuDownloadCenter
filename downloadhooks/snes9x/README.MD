@@ -13,15 +13,15 @@ _Snes9x is a portable, freeware Super Nintendo Entertainment System (SNES) emula
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/snes9x/snes9x_screen.jpg)
 ***
 ### Downloads
-| Version | Release date  | DL size    |
-|:--------|:-------------:|-----------:|
-| [**v1.40**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.40.7z) | 2003-07-25 | 853 KB |
-| [**v1.41-1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.41-1.7z) | 2003-08-12 | 854 KB |
-| [**v1.41**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.41.7z) | 2003-08-11 | 854 KB |
-| [**v1.42**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.42.7z) | 2003-12-03 | 559 KB |
-| [**v1.43**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.43.7z) | 2004-12-30 | 634 KB |
-| [**v1.51**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.51.7z) | 2007-04-28 | 785 KB |
-| [**v1.52-win95**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.52-win95.7z) | 2010-01-16 | 991 KB |
-| [**v1.53-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.53-win32.7z) | 2011-04-25 | 1139 KB |
-| [**v1.53-x64**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.53-x64.7z) | 2011-04-25 | 1474 KB |
-| [**v1.54-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.54-win32.7z) | 2016-10-10 | 877 KB |
+| Download | Release date  | Size       |
+|:---------|:-------------:|-----------:|
+| :floppy_disk: [**v1.40**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.40.7z) | 2003-07-25 | 853 KB |
+| :floppy_disk: [**v1.41-1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.41-1.7z) | 2003-08-12 | 854 KB |
+| :floppy_disk: [**v1.41**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.41.7z) | 2003-08-11 | 854 KB |
+| :floppy_disk: [**v1.42**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.42.7z) | 2003-12-03 | 559 KB |
+| :floppy_disk: [**v1.43**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.43.7z) | 2004-12-30 | 634 KB |
+| :floppy_disk: [**v1.51**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.51.7z) | 2007-04-28 | 785 KB |
+| :floppy_disk: [**v1.52-win95**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.52-win95.7z) | 2010-01-16 | 991 KB |
+| :floppy_disk: [**v1.53-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.53-win32.7z) | 2011-04-25 | 1139 KB |
+| :floppy_disk: [**v1.53-x64**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.53-x64.7z) | 2011-04-25 | 1474 KB |
+| :floppy_disk: [**v1.54-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.54-win32.7z) | 2016-10-10 | 877 KB |

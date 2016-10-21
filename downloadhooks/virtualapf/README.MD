@@ -13,6 +13,6 @@ _Virtual APF, an emulator for the APF Imagination Machine_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/virtualapf/virtualapf_screen.jpg)
 ***
 ### Downloads
-| Version | Release date  | DL size    |
-|:--------|:-------------:|-----------:|
-| [**v0.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/virtualapf/0.1.7z) | 2000-08-08 | 56 KB |
+| Download | Release date  | Size       |
+|:---------|:-------------:|-----------:|
+| :floppy_disk: [**v0.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/virtualapf/0.1.7z) | 2000-08-08 | 56 KB |

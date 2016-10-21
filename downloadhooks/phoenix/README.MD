@@ -13,7 +13,7 @@ _Phoenix is a Russian multi-system emulator for the Panasonic 3DO, Coleco Coleco
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/phoenix/phoenix_screen.jpg)
 ***
 ### Downloads
-| Version | Release date  | DL size    |
-|:--------|:-------------:|-----------:|
-| [**v2.8-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/phoenix/2.8-win32.7z) | 2016-10-11 | 15699 KB |
-| [**v2.8-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/phoenix/2.8-win64.7z) | 2016-10-11 | 15683 KB |
+| Download | Release date  | Size       |
+|:---------|:-------------:|-----------:|
+| :floppy_disk: [**v2.8-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/phoenix/2.8-win32.7z) | 2016-10-11 | 15699 KB |
+| :floppy_disk: [**v2.8-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/phoenix/2.8-win64.7z) | 2016-10-11 | 15683 KB |
