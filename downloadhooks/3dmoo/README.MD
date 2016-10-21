@@ -11,6 +11,6 @@ _3dmoo is an open-source Nintendo 3DS emulator released on May 17, 2014 for Wind
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/3dmoo/3dmoo_screen.jpg)
 ***
 ### Downloads
-| Version | Release date  | DL size:   |
+| Version | Release date  | DL size    |
 |:--------|:-------------:|-----------:|
 | [**v20140603**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/3dmoo/20140603.7z) | 2014-06-03 | 565 KB |

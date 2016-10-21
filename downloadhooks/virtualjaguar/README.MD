@@ -13,7 +13,7 @@ _Virtual Jaguar GCC/SDL portable Jaguar emulator which is based on the source co
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/virtualjaguar/virtualjaguar_screen.jpg)
 ***
 ### Downloads
-| Version | Release date  | DL size:   |
+| Version | Release date  | DL size    |
 |:--------|:-------------:|-----------:|
 | [**v1.0.5**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/virtualjaguar/1.0.5.7z) | 2003-08-27 | 342 KB |
 | [**v1.0.6**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/virtualjaguar/1.0.6.7z) | 2003-09-21 | 461 KB |

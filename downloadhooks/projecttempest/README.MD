@@ -13,7 +13,7 @@ _It runs in Windows 9x/2000/XP and currently emulates many commercial games, som
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/projecttempest/projecttempest_screen.jpg)
 ***
 ### Downloads
-| Version | Release date  | DL size:   |
+| Version | Release date  | DL size    |
 |:--------|:-------------:|-----------:|
 | [**v0.9**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/projecttempest/0.9.7z) | 2004-01-16 | 264 KB |
 | [**v0.91**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/projecttempest/0.91.7z) | 2004-01-17 | 265 KB |

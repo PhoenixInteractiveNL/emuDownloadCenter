@@ -13,7 +13,7 @@ _Snes9x is a portable, freeware Super Nintendo Entertainment System (SNES) emula
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/snes9x/snes9x_screen.jpg)
 ***
 ### Downloads
-| Version | Release date  | DL size:   |
+| Version | Release date  | DL size    |
 |:--------|:-------------:|-----------:|
 | [**v1.40**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.40.7z) | 2003-07-25 | 853 KB |
 | [**v1.41-1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.41-1.7z) | 2003-08-12 | 854 KB |

@@ -13,7 +13,7 @@ _TronDS is a Nintendo 3DS emulator released on May 11, 2014 for Windows._
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/tronds/tronds_screen.jpg)
 ***
 ### Downloads
-| Version | Release date  | DL size:   |
+| Version | Release date  | DL size    |
 |:--------|:-------------:|-----------:|
 | [**v1.0.0.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/tronds/1.0.0.1.7z) | 2014-05-11 | 177 KB |
 | [**v1.0.0.2**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/tronds/1.0.0.2.7z) | 2014-09-02 | 186 KB |

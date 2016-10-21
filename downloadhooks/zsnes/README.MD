@@ -13,7 +13,7 @@ _ZSNES is a Super Nintendo emulator programmed by zsKnight and -Demo-. On April 
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/zsnes/zsnes_screen.jpg)
 ***
 ### Downloads
-| Version | Release date  | DL size:   |
+| Version | Release date  | DL size    |
 |:--------|:-------------:|-----------:|
 | [**v1.20**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.20.7z) | 2001-04-30 | 417 KB |
 | [**v1.25**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.25.7z) | 2001-05-15 | 403 KB |

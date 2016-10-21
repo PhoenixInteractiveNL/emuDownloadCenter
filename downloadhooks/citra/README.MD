@@ -13,7 +13,7 @@ _Citra is an experimental open-source Nintendo 3DS emulator/debugger written in 
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/citra/citra_screen.jpg)
 ***
 ### Downloads
-| Version | Release date  | DL size:   |
+| Version | Release date  | DL size    |
 |:--------|:-------------:|-----------:|
 | [**v20140523-x86**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/citra/20140523-x86.7z) | 2014-05-23 | 3784 KB |
 | [**v20150525-amd64**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/citra/20150525-amd64.7z) | 2015-05-25 | 15868 KB |

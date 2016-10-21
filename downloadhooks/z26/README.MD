@@ -11,7 +11,7 @@ _This version of z26 is designed to run natively on 32-bit x86 Windows platforms
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/z26/z26_screen.jpg)
 ***
 ### Downloads
-| Version | Release date  | DL size:   |
+| Version | Release date  | DL size    |
 |:--------|:-------------:|-----------:|
 | [**v1.58**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/1.58.7z) | 2003-06-16 | 55 KB |
 | [**v2.05**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.05.7z) | 2003-02-15 | 124 KB |

@@ -13,7 +13,7 @@ _4DO is an open-source, low-level emulator based on the FreeDO source code. This
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/4do/4do_screen.jpg)
 ***
 ### Downloads
-| Version | Release date  | DL size:   |
+| Version | Release date  | DL size    |
 |:--------|:-------------:|-----------:|
 | [**v1.3.2.3**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/4do/1.3.2.3.7z) | 2013-09-29 | 1204 KB |
 | [**v1.3.2.4**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/4do/1.3.2.4.7z) | 2015-12-26 | 1172 KB |

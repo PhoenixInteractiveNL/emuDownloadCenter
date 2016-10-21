@@ -13,7 +13,7 @@ _The FreeDO (closed-source) project exists to bring about an emulator or simulat
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/freedo/freedo_screen.jpg)
 ***
 ### Downloads
-| Version | Release date  | DL size:   |
+| Version | Release date  | DL size    |
 |:--------|:-------------:|-----------:|
 | [**v1.8**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/freedo/1.8.7z) | 2006-08-29 | 750 KB |
 | [**v1.9**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/freedo/1.9.7z) | 2007-01-05 | 439 KB |
