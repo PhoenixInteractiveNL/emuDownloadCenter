@@ -11,13 +11,17 @@ https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki
 ***
 ### Your help
 
-Want to help us expanding EDC emulators?, please install DesktopGIT and fork this repo!, make pull requests!
+Want to help us expanding EDC emulators?, please install DesktopGIT, fork this repo! and make pull requests!
 
 Some site's to get emulators:
 
 http://www.emulator-zone.com
 
 http://www.zophar.net
+
+https://www.aep-emu.de
+
+http://www.emu-france.com
 
 ***
 ### Emulatorlist.ini
