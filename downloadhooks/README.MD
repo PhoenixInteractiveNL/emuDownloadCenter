@@ -14,7 +14,11 @@
 | :file_folder: [**projecttempest**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/projecttempest#menu) | Atari Jaguar | Ville Linde |
 | :file_folder: [**potator**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/potator#menu) | Watara Supervision | David Raingeard |
 | :file_folder: [**phoenix**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/phoenix#menu) | Sega Master System | Grishin Maxim Leonidovich aka Altmer |
+| :file_folder: [**jum52**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/jum52#menu) | Atari 5200 | James |
+| :file_folder: [**homelab**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/homelab#menu) | HomeLAB series - HomeLAB 4 | Grósz Attila |
+| :file_folder: [**funnymu**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/funnymu#menu) | Vtech Creativision | Pablo |
 | :file_folder: [**freedo**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/freedo#menu) | Panasonic 3DO | awright69, felix_laz, troosh & jsammons |
+| :file_folder: [**fceux**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/fceux#menu) |  | FCEUX team |
 | :file_folder: [**epsxe**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/epsxe#menu) | Sony PlayStation 1 | Calb, Galtor, -Demo- |
 | :file_folder: [**citra**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/citra#menu) | Nintendo 3DS | Multiple Contributors |
 | :file_folder: [**arculator**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/arculator#menu) | Acorn Archimedes | Tom Walker |
