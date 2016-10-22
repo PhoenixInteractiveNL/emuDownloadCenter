@@ -142,9 +142,9 @@ Example Contents (Emulator Potator for Watara Supervision):
 
 Every emulator version needs 3 files:
 
-[version].7z
-[version]_changelog.txt
-[version]_contents.txt
+    [version].7z
+    [version]_changelog.txt
+    [version]_contents.txt
 
 ### Changelog
 The changelog for this version, you may need to search for it on the emulator website, or any readme document in the archive...
@@ -157,6 +157,7 @@ Note that if there are more builds of the same version, then just copy the chang
 ### Contents
 Archive contents (will be created by EDC manager)
 
+***
 Please leave these emulators out for now:
 
 - Emulators for **Linux** and **MacOs** (you can add them to the repo, don't add them in downloads.ini)
