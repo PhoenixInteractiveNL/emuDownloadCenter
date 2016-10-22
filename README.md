@@ -10,8 +10,14 @@ EDC is part of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/em
 ***
 ## Your help
 
-Want to help us expanding EDC emulators?, please install [**GitHub Desktop**](https://desktop.github.com), fork this repo! and make pull requests!
+Want to help us expanding EDC emulators?, please install [**GitHub Desktop**](https://desktop.github.com)
 
+Fork this repo (edc-masterhook)
+
+Fork the latest [edc-repo00??](https://github.com/PhoenixInteractiveNL)
+
+and make pull requests!
+***
 Some site's to get emulators:
 
 http://www.emulator-zone.com
