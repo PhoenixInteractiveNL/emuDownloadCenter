@@ -4,21 +4,21 @@
 
 | Foldername | Platform      | Author     |
 |:-----------|:--------------|:-----------|
-| :file_folder: [**zsnes**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/zsnes) | Nintendo Super Nintendo | zsKnight, -Demo-, and Pharos |
-| :file_folder: [**z26**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/z26) | Atari 2600 | John Saeger |
-| :file_folder: [**virtualjaguar**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/virtualjaguar) | Atari Jaguar | Niels Wagenaar & Carwin Jones |
-| :file_folder: [**virtualapf**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/virtualapf) | APF Electronics Imagination Machine | James the Animal Tamer |
-| :file_folder: [**tronds**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/tronds) | Nintendo 3DS | jocopoco |
-| :file_folder: [**snes9x**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/snes9x) | Nintendo Super Nintendo | Gary Henderson |
-| :file_folder: [**rpcemu**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/rpcemu) | Acorn Archimedes | Tom Walker |
-| :file_folder: [**projecttempest**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/projecttempest) | Atari Jaguar | Ville Linde |
-| :file_folder: [**potator**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/potator) | Watara Supervision | David Raingeard |
-| :file_folder: [**phoenix**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/phoenix) | Sega Master System | Grishin Maxim Leonidovich aka Altmer |
-| :file_folder: [**freedo**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/freedo) | Panasonic 3DO | awright69, felix_laz, troosh & jsammons |
-| :file_folder: [**epsxe**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/epsxe) | Sony PlayStation 1 | Calb, Galtor, -Demo- |
-| :file_folder: [**citra**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/citra) | Nintendo 3DS | Multiple Contributors |
-| :file_folder: [**arculator**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/arculator) | Acorn Archimedes | Tom Walker |
-| :file_folder: [**apfemuw**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/apfemuw) | APF Electronics Imagination Machine | Enrique Collado |
-| :file_folder: [**4do**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/4do) | Panasonic 3DO | JohnnyDude & Viktor |
-| :file_folder: [**3doplay**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/3doplay) | Panasonic 3DO | Viktor Ivanov |
-| :file_folder: [**3dmoo**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/3dmoo) | Nintendo 3DS | normmatt and ichfly |
+| :file_folder: [**zsnes**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/zsnes#menu) | Nintendo Super Nintendo | zsKnight, -Demo-, and Pharos |
+| :file_folder: [**z26**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/z26#menu) | Atari 2600 | John Saeger |
+| :file_folder: [**virtualjaguar**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/virtualjaguar#menu) | Atari Jaguar | Niels Wagenaar & Carwin Jones |
+| :file_folder: [**virtualapf**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/virtualapf#menu) | APF Electronics Imagination Machine | James the Animal Tamer |
+| :file_folder: [**tronds**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/tronds#menu) | Nintendo 3DS | jocopoco |
+| :file_folder: [**snes9x**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/snes9x#menu) | Nintendo Super Nintendo | Gary Henderson |
+| :file_folder: [**rpcemu**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/rpcemu#menu) | Acorn Archimedes | Tom Walker |
+| :file_folder: [**projecttempest**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/projecttempest#menu) | Atari Jaguar | Ville Linde |
+| :file_folder: [**potator**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/potator#menu) | Watara Supervision | David Raingeard |
+| :file_folder: [**phoenix**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/phoenix#menu) | Sega Master System | Grishin Maxim Leonidovich aka Altmer |
+| :file_folder: [**freedo**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/freedo#menu) | Panasonic 3DO | awright69, felix_laz, troosh & jsammons |
+| :file_folder: [**epsxe**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/epsxe#menu) | Sony PlayStation 1 | Calb, Galtor, -Demo- |
+| :file_folder: [**citra**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/citra#menu) | Nintendo 3DS | Multiple Contributors |
+| :file_folder: [**arculator**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/arculator#menu) | Acorn Archimedes | Tom Walker |
+| :file_folder: [**apfemuw**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/apfemuw#menu) | APF Electronics Imagination Machine | Enrique Collado |
+| :file_folder: [**4do**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/4do#menu) | Panasonic 3DO | JohnnyDude & Viktor |
+| :file_folder: [**3doplay**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/3doplay#menu) | Panasonic 3DO | Viktor Ivanov |
+| :file_folder: [**3dmoo**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/3dmoo#menu) | Nintendo 3DS | normmatt and ichfly |
