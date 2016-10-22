@@ -8,9 +8,9 @@ EDC is part of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/em
 
 ### [**Browse emulators**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks#emulator-listing)
 ***
-### Your help
+## Your help
 
-Want to help us expanding EDC emulators?, please install DesktopGIT, fork this repo! and make pull requests!
+Want to help us expanding EDC emulators?, please install [**GitHub Desktop**](https://desktop.github.com), fork this repo! and make pull requests!
 
 Some site's to get emulators:
 
@@ -23,7 +23,7 @@ https://www.aep-emu.de
 http://www.emu-france.com
 
 ***
-### Emulatorlist.ini
+## Emulatorlist.ini
 
 To prevent folder names with spaces and give nice emulator names in EDC listings, this ini wil link those names.
 
@@ -31,9 +31,9 @@ To prevent folder names with spaces and give nice emulator names in EDC listings
 
 Format: `FOLDER=EMULATORNAME`
 ***
-### Emulator Hooks
+## Emulator Hooks
 
-Every emulator (not versions) is put in in the `downloadhooks\[emulatorfoldername]` folder, in here 3 files are stored:
+Every emulator (not versions) are put in a `downloadhooks\[emulatorfoldername]` folder, in here 3 files are stored:
 
 2 INI files wich contain data
 
@@ -42,8 +42,10 @@ Every emulator (not versions) is put in in the `downloadhooks\[emulatorfoldernam
     [emulatorfoldername]_downloads.ini
     [emulatorfoldername]_info.ini
     [emulatorfoldername]_screen
+
+**Please note: all in lowercase names!**
 ***
-### Emulator INFO INI
+## Emulator INFO INI
 
 Example Contents (Emulator Potator for Watara Supervision):
 
@@ -68,13 +70,13 @@ Please note the Email is masked to prevent spamming (*=. | #=@)
     [EMULATOR]
     Author              = Author of the emulator.
     Contact             = Possible E-mail of the Author.
-    License             = The License of the Emulator (Freeware/Shareware).
-    BiosNeeded          = Does the Emulator need a BIOS to run?
+    License             = The License of the Emulator (Freeware/Shareware/Open Source/GPL).
+    BiosNeeded          = Does the Emulator need BIOS ROMS to run?
     Website             = Website where the emulator can be found.
     Notes               = Small description of the emulator.
 
 ***
-### Emulator DOWNLOADS INI
+## Emulator DOWNLOADS INI
 
 **INI SECTION = VERSION**
 
@@ -135,3 +137,29 @@ Example Contents (Emulator Potator for Watara Supervision):
     INFO_UnpackedSize           = Unpacked size of the archive contents.
     INFO_CRC32Executable        = CRC32 of the executable to start the emulator.
     INFO_CRC32Archive           = CRC32 of the emulator archive.
+***
+## The download folder
+
+Every emulator version needs 3 files:
+
+[version].7z
+[version]_changelog.txt
+[version]_contents.txt
+
+### Changelog
+The changelog for this version, you may need to search for it on the emulator website, or any readme document in the archive...
+
+Note that if there are more builds of the same version, then just copy the changelog, example:
+
+1.0-win32_changelog.txt
+1.0-win64_changelog.txt (same contents as above)
+
+### Contents
+Archive contents (will be created by EDC manager)
+
+Please leave these emulators out for now:
+
+- Emulators for **Linux** and **MacOs** (you can add them to the repo, don't add them in downloads.ini)
+- Emulators **Source** files (you can add them to the repom, don't add them in downloads.ini)
+- Emulators that have **installers** to run first.
+- Emulators that are **Java** based (JAR).
