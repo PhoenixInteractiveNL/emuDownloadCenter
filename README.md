@@ -6,7 +6,7 @@ Author: Sebastiaan Ebeltjes, Deventer (Netherlands)
 
 EDC is part of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki)
 
-### [**Browse emulators**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks#emulator-listings)
+### [**Browse emulators**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks#emulator-listing)
 ***
 ### Your help
 
