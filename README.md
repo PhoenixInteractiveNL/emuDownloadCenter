@@ -20,13 +20,17 @@ and make pull requests!
 ***
 Some site's to get emulators:
 
-http://www.emulator-zone.com
-
-http://www.zophar.net
-
-https://www.aep-emu.de
-
-http://www.emu-france.com
+[emulator-zone](http://www.emulator-zone.com)
+[zophar](http://www.zophar.net)
+[aep-emu](https://www.aep-emu.de)
+[emu-france](http://www.emu-france.com)
+[emuparadise](http://www.emuparadise.me)
+[emutopia](http://www.emutopia.com/)
+[emucr](http://www.emucr.com/)
+[bannister](http://www.bannister.org/software/)
+[emudreams](http://www.emudreams.pl/)
+[coolrom](http://coolrom.com/emulators/)
+[fantasyanime](http://fantasyanime.com/emulators)
 
 ***
 ## Emulatorlist.ini

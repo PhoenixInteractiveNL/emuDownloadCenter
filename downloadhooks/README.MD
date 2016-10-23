@@ -11,9 +11,14 @@
 | :file_folder: [**TronDS**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/tronds#menu) | Nintendo 3DS | jocopoco |
 | :file_folder: [**SNES9X**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/snes9x#menu) | Nintendo Super Nintendo | Gary Henderson |
 | :file_folder: [**RPCemu**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/rpcemu#menu) | Acorn Archimedes | Tom Walker |
+| :file_folder: [**Red Squirrel**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/redsquirrel#menu) | Acorn Archimedes | Graeme Barnes |
+| :file_folder: [**pSX**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/psx#menu) | Sony PlayStation 1 | Unknown |
+| :file_folder: [**ProSystem**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/prosystem#menu) | Atari 7800 | Greg Stanton |
 | :file_folder: [**Project Tempest**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/projecttempest#menu) | Atari Jaguar | Ville Linde |
 | :file_folder: [**Potator**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/potator#menu) | Watara Supervision | David Raingeard |
 | :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/phoenix#menu) | Sega Master System | Grishin Maxim Leonidovich aka Altmer |
+| :file_folder: [**Nestopia**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/nestopia#menu) | Nintendo NES/Famicom | Martin Freij |
+| :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/kegafusion#menu) | Sega Master System | Steve Snake |
 | :file_folder: [**Jum52**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/jum52#menu) | Atari 5200 | James |
 | :file_folder: [**HomeLAB**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/homelab#menu) | HomeLAB series - HomeLAB 4 | Grósz Attila |
 | :file_folder: [**FunnyMU**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/funnymu#menu) | Vtech Creativision | Pablo |

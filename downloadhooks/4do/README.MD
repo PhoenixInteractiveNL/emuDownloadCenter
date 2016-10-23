@@ -14,7 +14,7 @@ This emulator runs on **Windows XP,Vista,7,8,10 (x86, x64)**
 
 _4DO is an open-source, low-level emulator based on the FreeDO source code. This is one of the best emulators for the 3DO._
 
-[**Emulator website**](https://fourdo.com)
+[**Emulator website**](http://fourdo.com/)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/4do/4do_screen.jpg)
