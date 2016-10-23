@@ -10,7 +10,7 @@
 ## About
 **3DOplay** is a **GNU GPLv3** emulator for **Panasonic 3DO** made by **Viktor Ivanov**
 
-This emulator runs on **Windows XP,Vista,7,8,10 (x86, x64)**
+This emulator does **not** specificly needs a BIOS image to run!
 
 _3DOplay is a Russian emulator for the Panasonic 3DO forked from the FreeDO sources._
 

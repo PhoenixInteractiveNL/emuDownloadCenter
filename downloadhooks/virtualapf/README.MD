@@ -10,7 +10,7 @@
 ## About
 **Virtual APF** is a **Freeware** emulator for **APF Electronics Imagination Machine** made by **James the Animal Tamer**
 
-This emulator runs on **Windows 95,98 (x32)**
+This emulator does **not** specificly needs a BIOS image to run!
 
 _Virtual APF, an emulator for the APF Imagination Machine_
 

@@ -10,7 +10,7 @@
 ## About
 **4DO** is a **Freeware** emulator for **Panasonic 3DO** made by **JohnnyDude & Viktor**
 
-This emulator runs on **Windows XP,Vista,7,8,10 (x86, x64)**
+This emulator **needs a BIOS image** to run!
 
 _4DO is an open-source, low-level emulator based on the FreeDO source code. This is one of the best emulators for the 3DO._
 
@@ -22,5 +22,5 @@ _4DO is an open-source, low-level emulator based on the FreeDO source code. This
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v1.3.2.3**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/4do/1.3.2.3.7z) | 2013-09-29 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/4do/1.3.2.3_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/4do/1.3.2.3_contents.txt) | 1204 KB |
 | :floppy_disk: [**v1.3.2.4**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/4do/1.3.2.4.7z) | 2015-12-26 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/4do/1.3.2.4_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/4do/1.3.2.4_contents.txt) | 1172 KB |
+| :floppy_disk: [**v1.3.2.3**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/4do/1.3.2.3.7z) | 2013-09-29 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/4do/1.3.2.3_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/4do/1.3.2.3_contents.txt) | 1204 KB |

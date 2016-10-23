@@ -10,7 +10,7 @@
 ## About
 **FunnyMU** is a **Freeware** emulator for **Vtech Creativision** made by **Pablo**
 
-This emulator runs on **Windows XP, Vista (x86)**
+This emulator does **not** specificly needs a BIOS image to run!
 
 _FunnyMu is a Funvision/Whizzard/Creativision emulator for Linux/Mac OS X and (sorta) Windows_
 
