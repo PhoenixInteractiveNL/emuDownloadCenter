@@ -176,6 +176,29 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**no$zx**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/nozx#menu) | Martin Korth | Freeware |
 ***
+## _Vtech Laser 100/110 (l100)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_l100_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**WinVZ300**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/winvz300#menu) | Gavin Turner | Freeware |
+***
+## _Vtech Laser 200/210/310 (l200)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_l200_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**WinVZ300**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/winvz300#menu) | Gavin Turner | Freeware |
+| :file_folder: [**James VZ200**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/jvz200#menu) | James the Animal Tamer | Freeware |
+| :file_folder: [**VZEM**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/vzem#menu) | Guy Thomason | Freeware |
+***
+## _Vtech Laser 350/500/700 (l350)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_l350_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**WinVZ300**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/winvz300#menu) | Gavin Turner | Freeware |
+***
 ## _Atari Lynx (lynx)_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_lynx_teaser.png)
 
@@ -201,6 +224,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**1964**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/1964#menu) | Joel Middendorf (schibo) & Rice | Freeware |
 ***
 ## _Nintendo DS (nds)_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_nds_teaser.png)
