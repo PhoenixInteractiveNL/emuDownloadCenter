@@ -5,103 +5,103 @@
 ## Platform: Sega Mega Drive 32X
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Kega Fusion**](../kegafusion#menu) | Steve Snake | Freeware |
+| :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/kegafusion#menu) | Steve Snake | Freeware |
 ## Platform: Nintendo 3DS
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**3dmoo**](../3dmoo#menu) | normmatt and ichfly | Open Source |
-| :file_folder: [**Citra**](../citra#menu) | Multiple Contributors | GPLv2 |
-| :file_folder: [**TronDS**](../tronds#menu) | jocopoco | Freeware |
+| :file_folder: [**3dmoo**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/3dmoo#menu) | normmatt and ichfly | Open Source |
+| :file_folder: [**Citra**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/citra#menu) | Multiple Contributors | GPLv2 |
+| :file_folder: [**TronDS**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/tronds#menu) | jocopoco | Freeware |
 ## Platform: Panasonic 3DO
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Phoenix**](../phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
-| :file_folder: [**3DOplay**](../3doplay#menu) | Viktor Ivanov | GNU GPLv3 |
-| :file_folder: [**4DO**](../4do#menu) | JohnnyDude & Viktor | Freeware |
-| :file_folder: [**FreeDo**](../freedo#menu) | awright69, felix_laz, troosh & jsammons | Freeware |
+| :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
+| :file_folder: [**3DOplay**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/3doplay#menu) | Viktor Ivanov | GNU GPLv3 |
+| :file_folder: [**4DO**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/4do#menu) | JohnnyDude & Viktor | Freeware |
+| :file_folder: [**FreeDo**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/freedo#menu) | awright69, felix_laz, troosh & jsammons | Freeware |
 ## Platform: Atari 2600
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Z26**](../z26#menu) | John Saeger | Freeware |
+| :file_folder: [**Z26**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/z26#menu) | John Saeger | Freeware |
 ## Platform: Atari 5200
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Jum52**](../jum52#menu) | James | Freeware |
+| :file_folder: [**Jum52**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/jum52#menu) | James | Freeware |
 ## Platform: Atari 7800
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**ProSystem**](../prosystem#menu) | Greg Stanton | Freeware |
+| :file_folder: [**ProSystem**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/prosystem#menu) | Greg Stanton | Freeware |
 ## Platform: Acorn Archimedes
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Arculator**](../arculator#menu) | Tom Walker | Freeware |
-| :file_folder: [**Red Squirrel**](../redsquirrel#menu) | Graeme Barnes | Freeware |
-| :file_folder: [**RPCemu**](../rpcemu#menu) | Tom Walker | Freeware |
+| :file_folder: [**Arculator**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/arculator#menu) | Tom Walker | Freeware |
+| :file_folder: [**Red Squirrel**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/redsquirrel#menu) | Graeme Barnes | Freeware |
+| :file_folder: [**RPCemu**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/rpcemu#menu) | Tom Walker | Freeware |
 ## Platform: Coleco ColecoVision
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Phoenix**](../phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
+| :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
 ## Platform: Vtech Creativision
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**FunnyMU**](../funnymu#menu) | Pablo | Freeware |
+| :file_folder: [**FunnyMU**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/funnymu#menu) | Pablo | Freeware |
 ## Platform: Sega Mega Drive/Genesis
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Kega Fusion**](../kegafusion#menu) | Steve Snake | Freeware |
+| :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/kegafusion#menu) | Steve Snake | Freeware |
 ## Platform: Sega Game Gear
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Phoenix**](../phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
-| :file_folder: [**Kega Fusion**](../kegafusion#menu) | Steve Snake | Freeware |
+| :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
+| :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/kegafusion#menu) | Steve Snake | Freeware |
 ## Platform: HomeLAB series - HomeLAB 4
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**HomeLAB**](../homelab#menu) | Grósz Attila | Freeware |
+| :file_folder: [**HomeLAB**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/homelab#menu) | Grósz Attila | Freeware |
 ## Platform: APF Electronics Imagination Machine
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Virtual APF**](../virtualapf#menu) | James the Animal Tamer | Freeware |
-| :file_folder: [**APF EMUW**](../apfemuw#menu) | Enrique Collado | Freeware |
+| :file_folder: [**Virtual APF**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/virtualapf#menu) | James the Animal Tamer | Freeware |
+| :file_folder: [**APF EMUW**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/apfemuw#menu) | Enrique Collado | Freeware |
 ## Platform: Atari Jaguar
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Project Tempest**](../projecttempest#menu) | Ville Linde | Freeware |
-| :file_folder: [**Virtual Jaguar**](../virtualjaguar#menu) | Niels Wagenaar & Carwin Jones | Open Source |
+| :file_folder: [**Project Tempest**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/projecttempest#menu) | Ville Linde | Freeware |
+| :file_folder: [**Virtual Jaguar**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/virtualjaguar#menu) | Niels Wagenaar & Carwin Jones | Open Source |
 ## Platform: Nintendo NES/Famicom
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Nestopia**](../nestopia#menu) | Martin Freij | Open Source |
-| :file_folder: [**FCEUX**](../fceux#menu) | FCEUX team | Freeware |
+| :file_folder: [**Nestopia**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/nestopia#menu) | Martin Freij | Open Source |
+| :file_folder: [**FCEUX**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/fceux#menu) | FCEUX team | Freeware |
 ## Platform: Sony PlayStation 1
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**ePSXe**](../epsxe#menu) | Calb, Galtor, -Demo- | Freeware |
-| :file_folder: [**pSX**](../psx#menu) | Unknown | Freeware |
+| :file_folder: [**ePSXe**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/epsxe#menu) | Calb, Galtor, -Demo- | Freeware |
+| :file_folder: [**pSX**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/psx#menu) | Unknown | Freeware |
 ## Platform: Sega SC-3000
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Kega Fusion**](../kegafusion#menu) | Steve Snake | Freeware |
+| :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/kegafusion#menu) | Steve Snake | Freeware |
 ## Platform: Sega SG-1000
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Kega Fusion**](../kegafusion#menu) | Steve Snake | Freeware |
-| :file_folder: [**Phoenix**](../phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
+| :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/kegafusion#menu) | Steve Snake | Freeware |
+| :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
 ## Platform: Sega Mega-CD
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Kega Fusion**](../kegafusion#menu) | Steve Snake | Freeware |
+| :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/kegafusion#menu) | Steve Snake | Freeware |
 ## Platform: Sega Master System
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Kega Fusion**](../kegafusion#menu) | Steve Snake | Freeware |
-| :file_folder: [**Phoenix**](../phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
+| :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/kegafusion#menu) | Steve Snake | Freeware |
+| :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
 ## Platform: Nintendo Super Nintendo
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**ZSNES**](../zsnes#menu) | zsKnight, -Demo-, and Pharos | Freeware |
-| :file_folder: [**SNES9X**](../snes9x#menu) | Gary Henderson | Freeware |
+| :file_folder: [**ZSNES**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/zsnes#menu) | zsKnight, -Demo-, and Pharos | Freeware |
+| :file_folder: [**SNES9X**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/snes9x#menu) | Gary Henderson | Freeware |
 ## Platform: Watara Supervision
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Potator**](../potator#menu) | David Raingeard | Freeware |
+| :file_folder: [**Potator**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/potator#menu) | David Raingeard | Freeware |
