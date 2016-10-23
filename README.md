@@ -1,26 +1,46 @@
-﻿## EDC MasterHook
-
-![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuControlCenter/images/img_misc_cabinet.png)
+## EDC MasterHook
 
 emuDownloadCenter (EDC) is a program to download ROM emulators from internet.
 Mostly in depots where found emulators on the internet are stored.
 Author: Sebastiaan Ebeltjes, Deventer (Netherlands)
 
-EDC is part of emuControlCenter, homepage/download:
-https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki
+EDC is part of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki)
+
+### [**Browse emulators**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks#emulator-listing)
 ***
-### Your help
+## Your help
 
-Want to help us expanding EDC emulators?, please install DesktopGIT and fork this repo!, make pull requests!
+Want to help us expanding EDC emulators?, please install [**GitHub Desktop**](https://desktop.github.com)
 
+Fork this repo (edc-masterhook)
+
+Fork the latest [edc-repo00??](https://github.com/PhoenixInteractiveNL)
+
+and make pull requests!
+
+**Descriptions howto fill data are below**
+
+Q: _Why are the more repo's?_
+
+A: Because a GitHub repository is limited to 1 GB size.
+
+***
 Some site's to get emulators:
 
-http://www.emulator-zone.com
-
-http://www.zophar.net
+[emulator-zone](http://www.emulator-zone.com) | 
+[zophar](http://www.zophar.net) | 
+[aep-emu](https://www.aep-emu.de) | 
+[emu-france](http://www.emu-france.com) | 
+[emuparadise](http://www.emuparadise.me) | 
+[emutopia](http://www.emutopia.com/) | 
+[emucr](http://www.emucr.com/) | 
+[bannister](http://www.bannister.org/software/) | 
+[emudreams](http://www.emudreams.pl/) | 
+[coolrom](http://coolrom.com/emulators/) | 
+[fantasyanime](http://fantasyanime.com/emulators) | 
 
 ***
-### Emulatorlist.ini
+## Emulatorlist.ini
 
 To prevent folder names with spaces and give nice emulator names in EDC listings, this ini wil link those names.
 
@@ -28,9 +48,9 @@ To prevent folder names with spaces and give nice emulator names in EDC listings
 
 Format: `FOLDER=EMULATORNAME`
 ***
-### Emulator Hooks
+## Emulator Hooks
 
-Every emulator (not versions) is put in in the `downloadhooks\[emulatorfoldername]` folder, in here 3 files are stored:
+Every emulator (not versions) are put in a `downloadhooks\[emulatorfoldername]` folder, in here 3 files are stored:
 
 2 INI files wich contain data
 
@@ -39,8 +59,10 @@ Every emulator (not versions) is put in in the `downloadhooks\[emulatorfoldernam
     [emulatorfoldername]_downloads.ini
     [emulatorfoldername]_info.ini
     [emulatorfoldername]_screen
+
+**Please note: all in lowercase names!**
 ***
-### Emulator INFO INI
+## Emulator INFO INI
 
 Example Contents (Emulator Potator for Watara Supervision):
 
@@ -65,13 +87,13 @@ Please note the Email is masked to prevent spamming (*=. | #=@)
     [EMULATOR]
     Author              = Author of the emulator.
     Contact             = Possible E-mail of the Author.
-    License             = The License of the Emulator (Freeware/Shareware).
-    BiosNeeded          = Does the Emulator need a BIOS to run?
+    License             = The License of the Emulator (Freeware/Shareware/Open Source/GPL).
+    BiosNeeded          = Does the Emulator need BIOS ROMS to run?
     Website             = Website where the emulator can be found.
     Notes               = Small description of the emulator.
 
 ***
-### Emulator DOWNLOADS INI
+## Emulator DOWNLOADS INI
 
 **INI SECTION = VERSION**
 
@@ -132,3 +154,30 @@ Example Contents (Emulator Potator for Watara Supervision):
     INFO_UnpackedSize           = Unpacked size of the archive contents.
     INFO_CRC32Executable        = CRC32 of the executable to start the emulator.
     INFO_CRC32Archive           = CRC32 of the emulator archive.
+***
+## The download folder
+
+Every emulator version needs 3 files:
+
+    [version].7z
+    [version]_changelog.txt
+    [version]_contents.txt
+
+### Changelog
+The changelog for this version, you may need to search for it on the emulator website, or any readme document in the archive...
+
+Note that if there are more builds of the same version, then just copy the changelog, example:
+
+1.0-win32_changelog.txt
+1.0-win64_changelog.txt (same contents as above)
+
+### Contents
+Archive contents (will be created by EDC manager)
+
+***
+Please leave these emulators out for now:
+
+- Emulators for **Linux** and **MacOs** (you can add them to the repo, don't add them in downloads.ini)
+- Emulators **Source** files (you can add them to the repom, don't add them in downloads.ini)
+- Emulators that have **installers** to run first.
+- Emulators that are **Java** based (JAR).
