@@ -8,6 +8,10 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**Gens**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/gens#menu) | Unknown | License? |
+| :file_folder: [**Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/gens32#menu) | Unknown | License? |
+| :file_folder: [**Gens/GS**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/gensgs#menu) | Unknown | License? |
+| :file_folder: [**Gens Plus!**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/gensplus#menu) | Unknown | License? |
 | :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/kegafusion#menu) | Steve Snake | Freeware |
 ***
 ## _Nintendo 3DS (3ds)_
@@ -24,16 +28,19 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
 | :file_folder: [**3DOplay**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/3doplay#menu) | Viktor Ivanov | GNU GPLv3 |
 | :file_folder: [**4DO**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/4do#menu) | JohnnyDude & Viktor | Freeware |
 | :file_folder: [**FreeDo**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/freedo#menu) | awright69, felix_laz, troosh & jsammons | Freeware |
+| :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
 ***
 ## _Atari 2600 (a2600)_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_a2600_teaser.png)
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**EMU7800**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/emu7800#menu) | Unknown | License? |
+| :file_folder: [**no$2k6**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/no2k6#menu) | Unknown | License? |
+| :file_folder: [**Stella**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/stella#menu) | Unknown | License? |
 | :file_folder: [**Z26**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/z26#menu) | John Saeger | Freeware |
 ***
 ## _Atari 5200 (a5200)_
@@ -41,14 +48,31 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**Altirra**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/altirra#menu) | Unknown | License? |
+| :file_folder: [**Atari800**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/atari800#menu) | Unknown | License? |
+| :file_folder: [**Atari800Win-PLus**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/atari800winplus#menu) | Unknown | License? |
+| :file_folder: [**atari++**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/atariplusplus#menu) | Unknown | License? |
 | :file_folder: [**Jum52**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/jum52#menu) | James | Freeware |
+| :file_folder: [**Rainbow**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/rainbow#menu) | Chris Lam | UNKNOWN |
 ***
 ## _Atari 7800 (a7800)_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_a7800_teaser.png)
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**EMU7800**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/emu7800#menu) | Unknown | License? |
 | :file_folder: [**ProSystem**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/prosystem#menu) | Greg Stanton | Freeware |
+***
+## _Atari 8-bit series (a8bit)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_a8bit_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Altirra**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/altirra#menu) | Unknown | License? |
+| :file_folder: [**Atari800**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/atari800#menu) | Unknown | License? |
+| :file_folder: [**Atari800Win-PLus**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/atari800winplus#menu) | Unknown | License? |
+| :file_folder: [**atari++**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/atariplusplus#menu) | Unknown | License? |
+| :file_folder: [**Rainbow**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/rainbow#menu) | Chris Lam | UNKNOWN |
 ***
 ## _Acorn Archimedes (archi)_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_archi_teaser.png)
@@ -59,12 +83,33 @@
 | :file_folder: [**Red Squirrel**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/redsquirrel#menu) | Graeme Barnes | Freeware |
 | :file_folder: [**RPCemu**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/rpcemu#menu) | Tom Walker | Freeware |
 ***
+## _Commodore 16/plus4 (c16plus4)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_c16plus4_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**no$c64**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/noc64#menu) | Martin Korth | Freeware |
+***
+## _Commodore 64 (c64)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_c64_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**no$c64**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/noc64#menu) | Martin Korth | Freeware |
+***
 ## _Coleco ColecoVision (col)_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_col_teaser.png)
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
+***
+## _Amstrad CPC (cpc)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_cpc_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**no$cpc**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/nocpc#menu) | Martin Korth | Freeware |
 ***
 ## _Vtech Creativision (cv)_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_cv_teaser.png)
@@ -73,20 +118,61 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**FunnyMU**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/funnymu#menu) | Pablo | Freeware |
 ***
+## _Nintendo FDS (fds)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_fds_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/mednafen#menu) | Unknown | License? |
+| :file_folder: [**no$nes**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/nones#menu) | Martin Korth | Freeware |
+***
+## _Nintendo Game Boy (gb)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_gb_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/mednafen#menu) | Unknown | License? |
+| :file_folder: [**no$gmb**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/nogmb#menu) | Martin Korth | Shareware |
+***
+## _Nintendo Game Boy Advance (gba)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_gba_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/mednafen#menu) | Unknown | License? |
+| :file_folder: [**no$gba**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/nogba#menu) | Martin Korth | Freeware |
+***
+## _Nintendo Game Boy Color (gbc)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_gbc_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/mednafen#menu) | Unknown | License? |
+| :file_folder: [**no$gmb**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/nogmb#menu) | Martin Korth | Shareware |
+***
 ## _Sega Mega Drive/Genesis (gen)_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_gen_teaser.png)
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**Gens**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/gens#menu) | Unknown | License? |
+| :file_folder: [**Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/gens32#menu) | Unknown | License? |
+| :file_folder: [**Gens/GS**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/gensgs#menu) | Unknown | License? |
+| :file_folder: [**Gens Plus!**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/gensplus#menu) | Unknown | License? |
 | :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/kegafusion#menu) | Steve Snake | Freeware |
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/mednafen#menu) | Unknown | License? |
+| :file_folder: [**PicoDrive**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/picodrive#menu) | notaz | Non-standard |
 ***
 ## _Sega Game Gear (gg)_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_gg_teaser.png)
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
+| :file_folder: [**Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/gens32#menu) | Unknown | License? |
+| :file_folder: [**Gens Plus!**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/gensplus#menu) | Unknown | License? |
 | :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/kegafusion#menu) | Steve Snake | Freeware |
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/mednafen#menu) | Unknown | License? |
+| :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
 ***
 ## _HomeLAB series - HomeLAB 4 (homelab4)_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_homelab4_teaser.png)
@@ -100,8 +186,8 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Virtual APF**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/virtualapf#menu) | James the Animal Tamer | Freeware |
 | :file_folder: [**APF EMUW**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/apfemuw#menu) | Enrique Collado | Freeware |
+| :file_folder: [**Virtual APF**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/virtualapf#menu) | James the Animal Tamer | Freeware |
 ***
 ## _Atari Jaguar (jag)_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_jag_teaser.png)
@@ -111,13 +197,100 @@
 | :file_folder: [**Project Tempest**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/projecttempest#menu) | Ville Linde | Freeware |
 | :file_folder: [**Virtual Jaguar**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/virtualjaguar#menu) | Niels Wagenaar & Carwin Jones | Open Source |
 ***
+## _Jupiter Cantab - Jupiter Ace (jupace)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_jupace_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**no$zx**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/nozx#menu) | Martin Korth | Freeware |
+***
+## _Atari Lynx (lynx)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_lynx_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/mednafen#menu) | Unknown | License? |
+***
+## _MSX Home Computer (msx)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_msx_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**no$msx**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/nomsx#menu) | Martin Korth | Shareware |
+***
+## _MSX 2 Home Computer (msx2)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_msx2_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**no$msx**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/nomsx#menu) | Martin Korth | Shareware |
+***
+## _Nintendo N64 (n64)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_n64_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**1964**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/1964#menu) | Unknown | License? |
+| :file_folder: [**Project64**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/project64#menu) | Unknown | License? |
+***
+## _Nintendo DS (nds)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_nds_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**no$gba**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/nogba#menu) | Martin Korth | Freeware |
+***
 ## _Nintendo NES/Famicom (nes)_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_nes_teaser.png)
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Nestopia**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/nestopia#menu) | Martin Freij | Open Source |
 | :file_folder: [**FCEUX**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/fceux#menu) | FCEUX team | Freeware |
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/mednafen#menu) | Unknown | License? |
+| :file_folder: [**Nestopia**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/nestopia#menu) | Martin Freij | Open Source |
+| :file_folder: [**no$nes**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/nones#menu) | Martin Korth | Freeware |
+***
+## _SNK NeoGeo Pocket (ngp)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_ngp_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/mednafen#menu) | Unknown | License? |
+***
+## _SNK NeoGeo Pocket Color (ngpc)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_ngpc_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/mednafen#menu) | Unknown | License? |
+***
+## _NEC Turbografx-16/PC-Engine (pce)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_pce_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/mednafen#menu) | Unknown | License? |
+***
+## _NEC Supergrafx/PC-Engine 2 (pce2)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_pce2_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/mednafen#menu) | Unknown | License? |
+***
+## _NEC PC-FX (pcfx)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_pcfx_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/mednafen#menu) | Unknown | License? |
+***
+## _Sega Pico (pico)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_pico_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**PicoDrive**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/picodrive#menu) | notaz | Non-standard |
 ***
 ## _Sony PlayStation 1 (ps1)_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_ps1_teaser.png)
@@ -125,7 +298,23 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**ePSXe**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/epsxe#menu) | Calb, Galtor, -Demo- | Freeware |
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/mednafen#menu) | Unknown | License? |
+| :file_folder: [**no$psx**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/nopsx#menu) | Martin Korth | Freeware |
 | :file_folder: [**pSX**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/psx#menu) | Unknown | Freeware |
+***
+## _Sony PocketStation (pstation)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_pstation_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**no$gba**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/nogba#menu) | Martin Korth | Freeware |
+***
+## _Sega Saturn (sat)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_sat_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/mednafen#menu) | Unknown | License? |
 ***
 ## _Sega SC-3000 (sc3000)_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_sc3000_teaser.png)
@@ -147,23 +336,36 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**Gens**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/gens#menu) | Unknown | License? |
+| :file_folder: [**Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/gens32#menu) | Unknown | License? |
+| :file_folder: [**Gens/GS**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/gensgs#menu) | Unknown | License? |
+| :file_folder: [**Gens Plus!**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/gensplus#menu) | Unknown | License? |
 | :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/kegafusion#menu) | Steve Snake | Freeware |
+| :file_folder: [**PicoDrive**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/picodrive#menu) | notaz | Non-standard |
 ***
 ## _Sega Master System (sms)_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_sms_teaser.png)
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/gens32#menu) | Unknown | License? |
+| :file_folder: [**Gens/GS**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/gensgs#menu) | Unknown | License? |
+| :file_folder: [**Gens Plus!**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/gensplus#menu) | Unknown | License? |
 | :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/kegafusion#menu) | Steve Snake | Freeware |
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/mednafen#menu) | Unknown | License? |
 | :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
+| :file_folder: [**PicoDrive**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/picodrive#menu) | notaz | Non-standard |
 ***
 ## _Nintendo Super Nintendo (snes)_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_snes_teaser.png)
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**ZSNES**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/zsnes#menu) | zsKnight, -Demo-, and Pharos | Freeware |
+| :file_folder: [**BSNES**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/bsnes#menu) | Unknown | License? |
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/mednafen#menu) | Unknown | License? |
+| :file_folder: [**no$sns**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/nosns#menu) | Martin Korth | Freeware |
 | :file_folder: [**SNES9X**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/snes9x#menu) | Gary Henderson | Freeware |
+| :file_folder: [**ZSNES**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/zsnes#menu) | zsKnight, -Demo-, and Pharos | Freeware |
 ***
 ## _Watara Supervision (svn)_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_svn_teaser.png)
@@ -171,3 +373,45 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Potator**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/potator#menu) | David Raingeard | Freeware |
+***
+## _Nintendo Virtual Boy (vb)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_vb_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/mednafen#menu) | Unknown | License? |
+***
+## _Commodore VIC-20 (vic20)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_vic20_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**no$c64**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/noc64#menu) | Martin Korth | Freeware |
+***
+## _Bandai Wonderswan (ws)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_ws_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/mednafen#menu) | Unknown | License? |
+***
+## _Bandai Wonderswan Color (wsc)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_wsc_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/mednafen#menu) | Unknown | License? |
+***
+## _Sinclair ZX81 (zx81)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_zx81_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**no$zx**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/nozx#menu) | Martin Korth | Freeware |
+***
+## _Sinclair ZX Spectrum (zxs)_
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_zxs_teaser.png)
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**no$zx**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/nozx#menu) | Martin Korth | Freeware |
