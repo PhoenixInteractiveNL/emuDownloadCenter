@@ -87,7 +87,7 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**DCALICE**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/dcalice#menu) | Daniel Coulom | Freeware |
-| :file_folder: [**DCMicrocolor**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/dcmicro#menu) | Daniel Coulom | Freeware |
+| :file_folder: [**DCMicroColor**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/dcmicro#menu) | Daniel Coulom | Freeware |
 ***
 ## _Acorn Archimedes (archi)_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_archi_teaser.png)
