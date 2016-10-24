@@ -10,7 +10,7 @@
 ## About
 **3dmoo** is a **Open Source** emulator for **Nintendo 3DS** made by **normmatt and ichfly**
 
-This emulator runs on **Windows XP,Vista,7,8,10 (x86,x64)**
+This emulator does **not** specificly needs a BIOS image to run!
 
 _3dmoo is an open-source Nintendo 3DS emulator released on May 17, 2014 for Windows and Linux. It can run commercial Nintendo 3DS games, albeit very, very slowly, and most games frequently crash._
 ***
