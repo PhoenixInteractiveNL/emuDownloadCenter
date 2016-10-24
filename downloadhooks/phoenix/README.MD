@@ -8,9 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Phoenix** is a **Free for Personal and Non-Commercial Use** emulator for **Sega Master System** made by **Grishin Maxim Leonidovich aka Altmer**
+**Phoenix** is a **Free for Personal and Non-Commercial Use** emulator for **Panasonic 3DO** made by **Grishin Maxim Leonidovich aka Altmer**
 
-This emulator runs on **Windows XP,Vista,7,8,10 (x86)**
+This emulator **needs a BIOS image** to run!
 
 _Phoenix is a Russian multi-system emulator for the Panasonic 3DO, Coleco Colecovision, Sega Game Gear, Sega SG-1000 and Sega Master System. NOTE: The entire emulator is in Russian._
 
