@@ -6,8 +6,5 @@ emuDownloadCenter (EDC) is a module of [**emuControlCenter**](https://github.com
 
 Author: Sebastiaan Ebeltjes, Deventer (Netherlands)
 
-
-EDC is part of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki)
-
 ### [**EDC WIKI WEBSITE**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki)
 
