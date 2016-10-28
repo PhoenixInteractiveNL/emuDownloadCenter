@@ -1,5 +1,3 @@
-### EDC Emulator hook
+###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 
-Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
-
-For more information visit the [**Rainbow**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-rainbow#menu) page.
+For more information about this emulator, visit the [**Rainbow**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-rainbow#menu) page.
