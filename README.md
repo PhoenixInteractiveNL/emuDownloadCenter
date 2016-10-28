@@ -1,4 +1,4 @@
-## emuDownloadCenter / EDC MasterHook
+## emuDownloadCenter
 
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/images/edc-banner-small.jpg)
 
@@ -6,5 +6,5 @@ emuDownloadCenter (EDC) is a module of [**emuControlCenter**](https://github.com
 
 Author: Sebastiaan Ebeltjes, Deventer (Netherlands)
 
-### [**EDC WIKI WEBSITE**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki)
+### [**EDC WEBSITE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki)
 
