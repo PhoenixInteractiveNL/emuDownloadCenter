@@ -1,5 +1,5 @@
 ### EDC Emulator hook
 
-For more information visit the [**Yet Another Plus/4 Emulator page**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-yape#menu)
+Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 
-EDC is part of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki)
+For more information visit the [**Yet Another Plus/4 Emulator**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-yape#menu) page.

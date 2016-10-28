@@ -1,5 +1,5 @@
 ### EDC Emulator hook
 
-For more information visit the [**ePSXe page**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-epsxe#menu)
+Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 
-EDC is part of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki)
+For more information visit the [**ePSXe**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-epsxe#menu) page.

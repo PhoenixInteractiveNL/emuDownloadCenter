@@ -1,5 +1,5 @@
 ### EDC Emulator hook
 
-For more information visit the [**AIPC (Apple in a PC) page**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-aipc#menu)
+Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 
-EDC is part of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki)
+For more information visit the [**AIPC (Apple in a PC)**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-aipc#menu) page.

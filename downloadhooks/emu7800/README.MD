@@ -1,5 +1,5 @@
 ### EDC Emulator hook
 
-For more information visit the [**EMU7800 page**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-emu7800#menu)
+Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 
-EDC is part of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki)
+For more information visit the [**EMU7800**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-emu7800#menu) page.

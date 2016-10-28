@@ -1,5 +1,5 @@
 ### EDC Emulator hook
 
-For more information visit the [**Atari800Win-PLus page**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-atari800winplus#menu)
+Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 
-EDC is part of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki)
+For more information visit the [**Atari800Win-PLus**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-atari800winplus#menu) page.
