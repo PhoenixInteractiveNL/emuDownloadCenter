@@ -1,3 +1,3 @@
 ###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 
-For more information about this emulator, visit the [**Mupen64+**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mupen64plus#menu) page.
+For more information about this emulator, visit the [**Dolwin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dolwin#menu) page.
